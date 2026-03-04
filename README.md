@@ -1,5 +1,13 @@
 # 📊 Customer Churn Prediction  
 ### Logistic Regression (From Scratch + Scikit-learn Comparison)
+---
+## Installation
+
+Install required libraries:
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
@@ -176,7 +184,7 @@ customer-churn-prediction/
 ├── logistic_regression_numpy.py  # Logistic Regression from scratch
 ├── utils.py                      # Feature loading & preprocessing
 ├── train.py                      # Training + comparison pipeline
-│
+├── requirements.txt  
 └── README.md                   
 ```
 
