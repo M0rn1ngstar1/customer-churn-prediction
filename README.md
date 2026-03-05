@@ -204,9 +204,7 @@ matplotlib==3.7.2
 ## 👨‍💻 Author
 
 **Ashutosh Agrawal**
-ECE Undergraduate | Aligarh
-
-I implement ML models from scratch before using libraries — because understanding the math makes you a better engineer.
+ECE Undergraduate
 
 [GitHub](https://github.com/ashutosh-agrawal1) · [LinkedIn](https://www.linkedin.com/in/ashutosh-agrawal-823753238)
 
