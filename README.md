@@ -148,7 +148,7 @@ pip install -r requirements.txt
 ```
 
 **3. Download dataset**
-Get it from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn), rename to `data_set.csv` and place in `/data/` folder.
+Get it from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn), rename to `data_set.csv` and place in `/Data/` folder.
 
 **4. Run**
 ```bash
@@ -162,7 +162,7 @@ python train.py
 ```
 customer-churn-prediction/
 │
-├── data/                          # Add dataset here (not tracked in git)
+├── Data/                          # Add dataset here (not tracked in git)
 │   └── .gitkeep
 │
 ├── churn_analysis.ipynb           # EDA and feature insights
