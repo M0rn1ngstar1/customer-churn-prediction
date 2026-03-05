@@ -135,17 +135,22 @@ From model coefficients and EDA:
 ---
 
 ## ▶️ How to Run
-# Clone the repo
+
+**1. Clone the repo**
 ```bash
 git clone https://github.com/ashutosh-agrawal1/customer-churn-prediction
 cd customer-churn-prediction
 ```
+
+**2. Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-Download dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn  
-Place the CSV in `/data/` folder.
+**3. Download dataset**
+Get it from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn), rename to `data_set.csv` and place in `/data/` folder.
+
+**4. Run**
 ```bash
 python train.py
 ```
